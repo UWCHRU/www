@@ -2,6 +2,6 @@ biopython==1.68
 Django==1.10.2
 django-admin-bootstrapped==2.5.7
 django-bootstrap3==7.1.0
-django-tinymce==2.3.0
+django-tinymce==3.4.0
 django-twitter-bootstrap==3.3.0
 xmltodict==0.10.2
